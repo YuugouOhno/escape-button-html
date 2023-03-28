@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: black;
+    background-color: #8ce4ec;
 }
 
 img {
@@ -15,5 +15,8 @@ h1 {
     z-index: 10;
     font-size: 70px;
     margin-top: 130px;
-    color: white;
+}
+
+.red {
+    color: red;
 }
